@@ -16,3 +16,6 @@ R2 metric (coefficient of determination): 0.8065634109200266
 
 #### Final model learning curves:
 ![learning_curve_final_iteration](https://user-images.githubusercontent.com/91271318/136998843-76fdcd86-bcd5-48fe-8f5a-bd7facfcbbd2.png)
+
+#### Future work:
+Future imporvements of the model could entail tuning of all the hyperparameters in one single grid search/ randomised search method that will guarantee the best result. More attention on data volume and data quality could lead to more accurate models as well.
