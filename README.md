@@ -8,7 +8,7 @@ A deep learning approach is used where I built and optimised a feedforward neura
 ![model_architecture_final_iteration](https://user-images.githubusercontent.com/91271318/136998845-12d11fe6-80c4-47bd-a2d9-ff3a8cdb786d.png)
 
 #### Final model compilation and errors:
-Final MAE metric: 0.05015536 /n
+Final MAE metric: 0.05015536 \n
 R2 metric (coefficient of determination): 0.8065634109200266
 ![model_compilation_final_iteration](https://user-images.githubusercontent.com/91271318/136999897-722b5c00-3480-4101-9c9e-1cc5e9c44e9a.png)
 
