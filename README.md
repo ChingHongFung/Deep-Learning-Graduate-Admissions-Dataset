@@ -6,12 +6,13 @@ This is a project looking at a graduate admissions dataset. The objective is to 
 
 A deep learning approach is used where I built and optimised a feedforward neural network using packages TensorFlow, Keras and SciPy. Optimision is done on a set of hyperparameters including batch size, epochs, early stopping, number of hidden layers, number of neurons per layer, regularistion terms (drop-out layers), etc. For evaluation, I used a loss function of mean squared error (applicable for linear regression problem) and monitored the mean absolute error for early stopping purposes. I also plotted learning curves for either metrics for training and cross validation sets throughout each iteration to see how the model could be improved. More details of the step-by-step iterative process could be found in the Jupyter Notebook document.
 
-### Technologies
+### Technologies and Algorithms
 * Python 3.8
 * TensorFlow
 * Keras
 * SciPy
 * Matplotlib
+* Feedforward Neural Network
 
 ## Overview
 
